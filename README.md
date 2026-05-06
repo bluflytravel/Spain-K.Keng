@@ -520,7 +520,7 @@ body { font-family: 'Prompt', sans-serif; }
           <p class="font-semibold">⚽ FC Barcelona vs Real Madrid</p>
           <p class="text-sm opacity-90">21.00 น. ชมการแข่งขันฟุตบอล El Clásico!</p>
           <p class="text-xs opacity-70 mt-1">ประสบการณ์สุดยิ่งใหญ่ ณ Camp Nou</p>
-        <div class="grid grid-cols-1 gap-3 mb-3"><img src="https://assets.goal.com/images/v3/bltea8dbf2c3be62a24/WhatsApp_Image_2023-01-17_at_12.15.52_(1).jpeg?auto=webp&format=pjpg&width=3840&quality=60" alt="Casa Batlló" loading="lazy" class="rounded-lg w-full h-60 object-cover" rounded-lg flex items-center justify-center text-2xl">
+        <div class="grid grid-cols-1 gap-3 mb-3"><img src="https://spookyexpress.com/wp-content/uploads/2025/10/Real-Madrid-vs-Barcelona.jpg" alt="Casa Batlló" loading="lazy" class="rounded-lg w-full h-60 object-cover" rounded-lg flex items-center justify-center text-2xl">
           </div>
          </div>
         </div>
